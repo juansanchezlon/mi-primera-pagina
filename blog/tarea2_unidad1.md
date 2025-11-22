@@ -33,3 +33,6 @@ elif numero < 0:
     print("El número es negativo")
 else:
     print("El número es cero")
+
+### Referencias de IA
+- ChatGPT: conversación sobre la solución del Ejercicio X (enlace)

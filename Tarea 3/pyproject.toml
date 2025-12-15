@@ -1,0 +1,9 @@
+[project]
+name = "mini-turtle"
+version = "0.1.0"
+description = "Un paquete simple para un ejercicio de modularidad."
+authors = [
+    {name = "Tu Nombre", email = "tu@email.com"},
+]
+readme = "README.md"
+requires-python = ">=3.8"
